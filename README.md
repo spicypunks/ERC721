@@ -1,4 +1,4 @@
-# ERC721 and ERC1155 Implementation
+# ERC721 Implementation
 
-This code contains the implementation of ERC721 and ERC1155 contracts.
+This code contains the implementation of ERC721 contracts.
 
